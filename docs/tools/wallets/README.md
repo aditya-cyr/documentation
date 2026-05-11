@@ -35,5 +35,6 @@ Do you own research while selecting your wallet, keep your seed and funds safely
 ## Hardware Wallets
 
 - [D'CENT](/tools/wallets/dcent)
+- [Cypherock](/tools/wallets/cypherock)
 - [Ledger](/tools/wallets/ledger)
 - [Trezor](/tools/wallets/trezor)
